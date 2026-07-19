@@ -1,0 +1,7 @@
+interface:
+  display_name: "概念到场景"
+  short_description: "把阅读概念变成限时场景训练"
+  default_prompt: "Use $concept-to-scenario 把这个阅读概念变成一次限时场景训练。"
+
+policy:
+  allow_implicit_invocation: true
